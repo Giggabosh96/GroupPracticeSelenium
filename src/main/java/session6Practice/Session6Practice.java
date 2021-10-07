@@ -65,6 +65,8 @@ public class Session6Practice {
 		
 		WebElement NodesAssertionIdentifier = driver.findElement(By.xpath("//*[@id=\"main\"]/h1"));
 		Assert.assertEquals(NodesAssertionIdentifier.getText(), "XPath Nodes", "Nodes Header Not Found!");
+		
+		system.out.println("I declare myself as the java king");
 	}
 
 	// @AfterMethod
