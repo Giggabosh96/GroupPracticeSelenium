@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6821" started-at="2021-10-06T20:15:07 CDT" finished-at="2021-10-06T20:15:14 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6821" started-at="2021-10-06T20:15:07 CDT" finished-at="2021-10-06T20:15:14 CDT">
+      <class name="session6Practice.ConfigAndGeckoPractice">
+        <test-method status="PASS" signature="reacConfig()[pri:0, instance:session6Practice.ConfigAndGeckoPractice@307f6b8c]" name="reacConfig" is-config="true" duration-ms="9" started-at="2021-10-06T20:15:07 CDT" finished-at="2021-10-06T20:15:07 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reacConfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:session6Practice.ConfigAndGeckoPractice@307f6b8c]" name="init" is-config="true" duration-ms="3418" started-at="2021-10-06T20:15:07 CDT" finished-at="2021-10-06T20:15:11 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testrandoninputs()[pri:0, instance:session6Practice.ConfigAndGeckoPractice@307f6b8c]" name="testrandoninputs" duration-ms="3327" started-at="2021-10-06T20:15:11 CDT" finished-at="2021-10-06T20:15:14 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testrandoninputs -->
+      </class> <!-- session6Practice.ConfigAndGeckoPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
